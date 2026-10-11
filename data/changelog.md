@@ -1,25 +1,36 @@
-# Changelog — 2026-10-10
+# Changelog — 2026-10-11
 
-- **Added: 20**
-  - HerTa-st/Herta-dsh
-  - Ianzhyh/workbuddy-to-dsh
-  - Kanadego/dsh-heartbeat
-  - Rannichan/Tavern-Harness
-  - William2333ZZ/mywork-deepseekharness
-  - XSJUSTC/dsh-plugin-manager
-  - Yoshino-JF/dsh-deepseek-pet
-  - doublezerolv-lab/dsh-plugin-evoforge
-  - dushaobindoudou/dsh-plugin-security
-  - ffyfox/dsh-desktop-linux
-  - fnnas-labs/fnos-cli-skill
-  - happyqu/dsh-plugin-git
-  - jason2be/dsh-plugin-zen-runtime
-  - lerqian883-alt/dsh-plugin-ml-phase-gate
-  - tuojc/dsh-browser-firefox
-  - woxihejinghao/pi-web
-  - xcisxc29/dsh-wechat
-  - xwclr/dsh-plugin-skill-manager
-  - xwclr/dsh-plugin-workspace-colors
-  - yuchenlogin/noname-dsh-plugin
+- **Added: 512**
+  - 0QwQ0/dsh-discord-richpresence
+  - 1014029855/dsh-codevault
+  - 1569126506-sudo/dsh-team-cost
+  - 21hbguo/dsh-sysmon
+  - 23J1633/A2Switch
+  - 23J1633/a2s_app
+  - 23J1633/dsh2server
+  - 23J1633/server-api
+  - 2huy4n/ProjectKaren
+  - 3121455692atou-sudo/dsh-tavern-mode
+  - 33moren33/dsh-slice-bench
+  - 778672151/dsh-session-turn-eta
+  - AIcivilization/dsh-vps
+  - AIcivilization/dsh-vps-manager
+  - AbsoluteMikhail/dsh-locale-ru
+  - Aik358/dsh-memory-fitting
+  - Aliarrrrr/dsh-desktop
+  - Aliww2468/dsh-client-ui-aqua-patched
+  - Alvin-Somedo/dsh-app-launcher
+  - Amer-CN/zcode-usage-stats
+  - Amnesia-accompany/deepseek-harness-client
+  - AnakinCao/dsh-session-allow
+  - AppliedYuu/dsh-WallpaperAndCost
+  - B-TQ/dsh-wallpaper
+  - Beants/dsh-trellis
+  - BilibiliSZdaomei/dsh-island
+  - Binaryinject/dsh-tray
+  - BotHarness/DeepSeekBot
+  - CMoyuer/dsh-cad-viewer
+  - Carrick-K7/dsh-ai-quota
+  - … and 482 more
 
 - **Removed: 0**
