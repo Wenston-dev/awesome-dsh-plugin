@@ -1,36 +1,24 @@
-# Changelog — 2026-10-11
+# Changelog — 2026-10-12
 
-- **Added: 512**
-  - 0QwQ0/dsh-discord-richpresence
-  - 1014029855/dsh-codevault
-  - 1569126506-sudo/dsh-team-cost
-  - 21hbguo/dsh-sysmon
-  - 23J1633/A2Switch
-  - 23J1633/a2s_app
-  - 23J1633/dsh2server
-  - 23J1633/server-api
-  - 2huy4n/ProjectKaren
-  - 3121455692atou-sudo/dsh-tavern-mode
-  - 33moren33/dsh-slice-bench
-  - 778672151/dsh-session-turn-eta
-  - AIcivilization/dsh-vps
-  - AIcivilization/dsh-vps-manager
-  - AbsoluteMikhail/dsh-locale-ru
-  - Aik358/dsh-memory-fitting
-  - Aliarrrrr/dsh-desktop
-  - Aliww2468/dsh-client-ui-aqua-patched
-  - Alvin-Somedo/dsh-app-launcher
-  - Amer-CN/zcode-usage-stats
-  - Amnesia-accompany/deepseek-harness-client
-  - AnakinCao/dsh-session-allow
-  - AppliedYuu/dsh-WallpaperAndCost
-  - B-TQ/dsh-wallpaper
-  - Beants/dsh-trellis
-  - BilibiliSZdaomei/dsh-island
-  - Binaryinject/dsh-tray
-  - BotHarness/DeepSeekBot
-  - CMoyuer/dsh-cad-viewer
-  - Carrick-K7/dsh-ai-quota
-  - … and 482 more
+- **Added: 19**
+  - 398894496-arch/KRouter
+  - Baisbt/dsh-plugin-webrelay
+  - Dynesshely/dsh-plugin-remote
+  - Fei2411/DeepSeek-Bot
+  - Ian-Yunqi/dsh-plugin-boot-whale-maid
+  - Imzl-zl/dsh-toolbox-ui
+  - Lutisure/cyrene-dsh-plugin
+  - QingYunA/answer-me-with-html
+  - Scorp1o117/dsh-motion-ui
+  - chenkui-luo/dsh-plugin-restart
+  - corrinehu/dsh-buddy-checkin
+  - dinggy111/dsh-plugin-ai-roundtable
+  - eighteentang/dsh-plugin-memory-lite
+  - hp-future/dsh-plugin-balance
+  - huangxp12/dsh-plugin-search
+  - lnuxe/dsh-plugins
+  - mangfufu/dsh-comfyui-web
+  - xyrrrrr-r/aeval
+  - xyrrrrr-r/dsh-eval-control
 
 - **Removed: 0**

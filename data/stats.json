@@ -1,25 +1,25 @@
 {
- "total": 8685,
- "updated": "2026-10-11T09:44:22+00:00",
+ "total": 8704,
+ "updated": "2026-10-12T10:09:14+00:00",
  "by_category": {
-  "agents": 1874,
-  "ui": 2298,
-  "dev": 854,
+  "agents": 1880,
+  "ui": 2304,
+  "dev": 856,
   "eco": 181,
   "web": 334,
   "sessions": 556,
-  "other": 1751,
-  "knowledge": 159,
+  "other": 1755,
+  "knowledge": 160,
   "media": 152,
   "fun": 100,
   "integrations": 137,
   "util": 289
  },
  "by_language": {
-  "TypeScript": 2901,
+  "TypeScript": 2905,
   "Go": 57,
-  "Python": 472,
-  "JavaScript": 4468,
+  "Python": 474,
+  "JavaScript": 4481,
   "Rust": 119,
   "HTML": 89,
   "None": 272,
@@ -52,5 +52,5 @@
   "Dart": 2,
   "Lean": 1
  },
- "tag_only": 531
+ "tag_only": 534
 }
