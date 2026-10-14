@@ -1,28 +1,28 @@
 {
- "total": 8719,
- "updated": "2026-10-13T10:02:18+00:00",
+ "total": 8736,
+ "updated": "2026-10-14T08:20:58+00:00",
  "by_category": {
-  "agents": 1884,
-  "ui": 2309,
-  "dev": 856,
+  "agents": 1888,
+  "ui": 2315,
+  "dev": 857,
   "eco": 181,
   "web": 336,
   "sessions": 556,
-  "other": 1757,
+  "other": 1760,
   "knowledge": 160,
   "media": 153,
-  "fun": 100,
-  "integrations": 137,
-  "util": 290
+  "fun": 101,
+  "integrations": 138,
+  "util": 291
  },
  "by_language": {
-  "TypeScript": 2908,
+  "TypeScript": 2915,
   "Go": 57,
   "Python": 476,
-  "JavaScript": 4491,
+  "JavaScript": 4503,
   "Rust": 119,
-  "HTML": 90,
-  "None": 272,
+  "HTML": 89,
+  "None": 271,
   "Shell": 54,
   "Vue": 5,
   "C#": 53,
@@ -51,5 +51,5 @@
   "Dart": 2,
   "Lean": 1
  },
- "tag_only": 535
+ "tag_only": 537
 }
