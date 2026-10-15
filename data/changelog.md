@@ -1,22 +1,26 @@
-# Changelog — 2026-10-14
+# Changelog — 2026-10-15
 
-- **Added: 17**
-  - 12we21/cute-fat-fish-pet
-  - Alm-Allen/dsh-chat-ux
-  - Jeffry-Z/dsh-plugin-archived-sessions
-  - Something11235/dsh-video-skin
-  - TikaFlow/dsh-model-fix
-  - YuChenLiao/dsh-plugin-structured-prompt
-  - chi-en-chen/dsh-plugin-terminal
-  - cv-superding/dsh-webin
-  - cyberofficial/dsh-plugin-opencode-usage
-  - heswy/dsh-plugin-codex-bridge
-  - honwee/dsh-plugin-mynah
-  - kaanyavuzer/dsh-plugin-locale-tr
-  - leolee9086/dsh-plugin-siyuan
-  - pearjelly/deep-blend
-  - sanlisanxun/dsh-plugin-nickname
-  - xiaobaoliu849/dsh-plugin-voice-agent
-  - yh4922/dsh-workspace
+- **Added: 21**
+  - IT-coder-Yy/dsh-lazygit-plugin
+  - LeeRolling/dsh-chat-wallpaper
+  - MengYuanzhuo/dsh-plugin-magi
+  - SheepofSheep/dsh-doyourweb
+  - SuperWheel/dsh-cliworker-now
+  - azwosile/dsh-tripo-studio
+  - baifagg/dsh-plugin-busy-workspace
+  - cybtachyon/dsh-plugin-local-infer
+  - dabaicai001/starhub
+  - dsh-plugin-collection/dsh-suggest-ghost
+  - evenpang666/financial_dsh_plugin
+  - gavinc-cn/dsh-plugins
+  - mmparko/dsh-purge
+  - panqing0313/dsh-plugin-weixin
+  - peng456/dsh-plugin-mesh
+  - plyflai/dsh-ux-plus
+  - rlaope/deepseek-bot
+  - sdfsd85fds74f9d8/dsh-plugin-wallpaper-engine-Yun
+  - skyelan1999/aide
+  - swyc520/dsh-plugin-model-whitelist
+  - zhiqiangme/dsh-plugins
 
 - **Removed: 0**
