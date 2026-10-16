@@ -1,26 +1,27 @@
-# Changelog — 2026-10-15
+# Changelog — 2026-10-16
 
-- **Added: 21**
-  - IT-coder-Yy/dsh-lazygit-plugin
-  - LeeRolling/dsh-chat-wallpaper
-  - MengYuanzhuo/dsh-plugin-magi
-  - SheepofSheep/dsh-doyourweb
-  - SuperWheel/dsh-cliworker-now
-  - azwosile/dsh-tripo-studio
-  - baifagg/dsh-plugin-busy-workspace
-  - cybtachyon/dsh-plugin-local-infer
-  - dabaicai001/starhub
-  - dsh-plugin-collection/dsh-suggest-ghost
-  - evenpang666/financial_dsh_plugin
-  - gavinc-cn/dsh-plugins
-  - mmparko/dsh-purge
-  - panqing0313/dsh-plugin-weixin
-  - peng456/dsh-plugin-mesh
-  - plyflai/dsh-ux-plus
-  - rlaope/deepseek-bot
-  - sdfsd85fds74f9d8/dsh-plugin-wallpaper-engine-Yun
-  - skyelan1999/aide
-  - swyc520/dsh-plugin-model-whitelist
-  - zhiqiangme/dsh-plugins
+- **Added: 22**
+  - ArtlexYoung/dsh-super-code
+  - BaronCyrus/dsh-packycode-api
+  - HAN-050917/dsh-plugin-dsweb-harness
+  - LarryE135/dsh-flash-presets
+  - Thatgfsj/dsh-plugin-skills
+  - TheoiNabiy/godot-docs-dsh-plugin
+  - Uknown-wang/dsh-plugin-gpu-accelerator
+  - Vincent-chk/dsh-plugin-auxiliary-chat
+  - XDTrees/dsh-xdpool
+  - a1141171521/dsh-plugin-memfuse
+  - c1overzz/dsh-bili-scroll
+  - delta-box/deltabox-lite
+  - dsh-plugin-lab/dsh-plugin-debugging
+  - dtxovo/dsh-plugin-session-cost
+  - hechucaixuanzhi/my-dsh-plugins
+  - jaychang1989/dsh-webchat
+  - nixuejun888/dsh-plugin-session-delete
+  - racheren/dsh-plugin-restart
+  - tiwe0/GeoChat
+  - xcisxc29/dsh-qq-plugin
+  - ymck-x/dsh-plugin-index
+  - ziyulisiyuan/dsh-plugin-random
 
 - **Removed: 0**
