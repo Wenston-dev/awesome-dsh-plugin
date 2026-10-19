@@ -1,36 +1,27 @@
-# Changelog — 2026-10-18
+# Changelog — 2026-10-19
 
-- **Added: 897**
-  - 001-orz/dsh-pet
-  - 1052326311/dsh-instruction-audit
-  - 1149784810/jayhe-mdviewer
-  - 121212165/dsh-plugin-ide-hub
-  - 1215chen/dsh-plugin-task-notify
-  - 123dbl/dsh-side-session
-  - 12XGH/dsh-deepseek-usage
-  - 133563825as-ai/oha-whale-compress
-  - 133563825as-ai/oha-whale-session-manager
-  - 142gg-GZX/unity-dsh-bridge
-  - 1499501762/dsh-web-fetch-proxy
-  - 1622352030/dsh-session-rescue
-  - 189-sketch/dsh-custom-logo
-  - 2021Heei/dsh-tts-flash
-  - 21hbguo/dsh-agent-board
-  - 23aisfvb/dsh-plan-preset
-  - 240xu/verdict-engine
-  - 2507483326/dsh-eteams
-  - 2754LM/dsh-theme-newsprint
-  - 2CHariko/dsh-cost-meter
-  - 305037991x-pixel/dsh-account-balance
-  - 621758/dsh-whale-widget-pet-feed
-  - 66-empty/DeepSeek-Harness-Desktop
-  - 781316853/dsh-provider-quota
-  - 863683348/dsh-insight
-  - 91koukou/dsh-gpt-sovits
-  - 940842546/dsh-permissions
-  - 979569650/dsh-typesafe
-  - 988hj7tczd-oss/dsh-im-qq
-  - AAAsangyu/dsh-unfocus-reminder
-  - … and 867 more
+- **Added: 22**
+  - 121212165/dsh-plugin-spend-forecast
+  - 121212165/dsh-plugin-subagent-roster
+  - 3Tiga3/dsh-plugin-namecards
+  - Bob-Cheung/dsh-plugin-session-panes
+  - DPH-1121/dsh-plugins
+  - ECNU/EduWork
+  - EasonMWS/dsh-plugin-health
+  - Instant-KING/dsh-ai-library
+  - Jiangluowen623/dsh-plugin-tapd
+  - Slacom/Slacom-dsh-plugin-market
+  - WestFox-AwA/dsh-wish-specializer
+  - Xiaodaidai-521/dsh-plugin-github
+  - boshihaihai/dsh-plugin-composer-predictions
+  - cq-guojia/dsh-plugin-core
+  - drliuhuan/dsh-plugin-vrmpet3d
+  - ds-hu/dsh-acp-paseo
+  - joansgwjbsu/dsh-plugin-cdp
+  - meliodascz89/dsh-plugins-manager
+  - opfield/dsh-plugins
+  - peijiping/dsh-plugin-zotero
+  - pengxiaozi/dsh-plugins
+  - zoe1nan/dsh-cockpit
 
 - **Removed: 0**
