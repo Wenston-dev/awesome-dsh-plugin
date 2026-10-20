@@ -1,27 +1,36 @@
-# Changelog — 2026-10-19
+# Changelog — 2026-10-20
 
-- **Added: 22**
-  - 121212165/dsh-plugin-spend-forecast
-  - 121212165/dsh-plugin-subagent-roster
-  - 3Tiga3/dsh-plugin-namecards
-  - Bob-Cheung/dsh-plugin-session-panes
-  - DPH-1121/dsh-plugins
-  - ECNU/EduWork
-  - EasonMWS/dsh-plugin-health
-  - Instant-KING/dsh-ai-library
-  - Jiangluowen623/dsh-plugin-tapd
-  - Slacom/Slacom-dsh-plugin-market
-  - WestFox-AwA/dsh-wish-specializer
-  - Xiaodaidai-521/dsh-plugin-github
-  - boshihaihai/dsh-plugin-composer-predictions
-  - cq-guojia/dsh-plugin-core
-  - drliuhuan/dsh-plugin-vrmpet3d
-  - ds-hu/dsh-acp-paseo
-  - joansgwjbsu/dsh-plugin-cdp
-  - meliodascz89/dsh-plugins-manager
-  - opfield/dsh-plugins
-  - peijiping/dsh-plugin-zotero
-  - pengxiaozi/dsh-plugins
-  - zoe1nan/dsh-cockpit
+- **Added: 35**
+  - 121212165/dsh-plugin-deep-scan
+  - 121212165/dsh-plugin-fact-vault
+  - 121212165/dsh-plugin-token-telemetry
+  - 121212165/dsh-plugin-transcript-search
+  - 2026heshao/dsh-armory
+  - Alice-Marx/dsh-model-router
+  - BreakFree003/dsh-clinepass-deepseek
+  - ClassicXTx/dsh-plugin-ctf
+  - DooKoi/dsh-plugins
+  - Fr0zenWatter/codex-latex-editor
+  - Jaylor-Wang/dsh-tool-antigravity
+  - JeffKeeping/dsh-purge-plus
+  - KuiyiGao/deepcrew
+  - Rosynb666/dsh-whale-catch
+  - Xnmk029/dsh-plugin-harness2
+  - architect-xyz/liquid-dsh-plugin
+  - berhbro/dsh-cyrene-theme
+  - dexwebcode/dsh-plugin-mobile-ui
+  - dingminhua/dsh-connect-qoder
+  - drliuhuan/dsh-plugin-pwsh7
+  - feely0208/dsh-plugins
+  - furongjun-lingshu/dsh-plugin-reviews
+  - hollowfyh/dsh-plugin-doctor
+  - keatsyh/dsh-plugin-addir
+  - liuda30201/AI-Coding
+  - marx-otto/dafeiyu-dsh-plugins
+  - nicremo/dsh-cli
+  - starash07/dsh-plugin-annotate
+  - tommy0103/obelisk
+  - worldconfig/dsh-plugin-usage-cost
+  - … and 5 more
 
 - **Removed: 0**
