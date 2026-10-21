@@ -1,36 +1,36 @@
-# Changelog — 2026-10-20
+# Changelog — 2026-10-21
 
-- **Added: 35**
-  - 121212165/dsh-plugin-deep-scan
-  - 121212165/dsh-plugin-fact-vault
-  - 121212165/dsh-plugin-token-telemetry
-  - 121212165/dsh-plugin-transcript-search
-  - 2026heshao/dsh-armory
-  - Alice-Marx/dsh-model-router
-  - BreakFree003/dsh-clinepass-deepseek
-  - ClassicXTx/dsh-plugin-ctf
-  - DooKoi/dsh-plugins
-  - Fr0zenWatter/codex-latex-editor
-  - Jaylor-Wang/dsh-tool-antigravity
-  - JeffKeeping/dsh-purge-plus
-  - KuiyiGao/deepcrew
-  - Rosynb666/dsh-whale-catch
-  - Xnmk029/dsh-plugin-harness2
-  - architect-xyz/liquid-dsh-plugin
-  - berhbro/dsh-cyrene-theme
-  - dexwebcode/dsh-plugin-mobile-ui
-  - dingminhua/dsh-connect-qoder
-  - drliuhuan/dsh-plugin-pwsh7
-  - feely0208/dsh-plugins
-  - furongjun-lingshu/dsh-plugin-reviews
-  - hollowfyh/dsh-plugin-doctor
-  - keatsyh/dsh-plugin-addir
-  - liuda30201/AI-Coding
-  - marx-otto/dafeiyu-dsh-plugins
-  - nicremo/dsh-cli
-  - starash07/dsh-plugin-annotate
-  - tommy0103/obelisk
-  - worldconfig/dsh-plugin-usage-cost
-  - … and 5 more
+- **Added: 33**
+  - ANetResearch/ANet
+  - CC19990113/dsh-plugin-agentflow
+  - Contexera/dsh-plugins
+  - Echo-moli/dsh-plugin-side-explain
+  - Fr0zenWatter/latex-in-ai-sidebar
+  - Kirin-9000/dsh-plugin-backup
+  - KurosawaGeeker/dsh-moe-lite
+  - LanJinGod/dsh-purge
+  - Potato1008ypy/dsh-purge-0.2.1rc2-fix
+  - RoacherM/dsh-plugins
+  - Ronnie-Young/dsh-plugins-market
+  - YishenTu/claudian
+  - ashareapi/ashareapi-dsh-plugin
+  - dreamfarer-space/deepseek-harness-intelligent-ui
+  - evilevil/dsh-purge-021rc2
+  - feely0208/mcp-dsh-plugins
+  - hongshuxifan321/agenttime
+  - hongshuxifan321/econ-cn-docx
+  - hongshuxifan321/plan-first
+  - hugoyee75-cmyk/dsh-token-metrics
+  - iflytek/skillhub
+  - kaijia323/dsh-plugin-jev
+  - kukemc/bili-cli
+  - liuyu-f/dsh-plugin-session-cascade-delete
+  - mengwEX/dsh-block-ptc
+  - openbkn-ai/bkn-dsh
+  - suzike/dsh-freestyle-theme
+  - webkubor/dsh-museav-assets
+  - wee-b/disk-sentinel
+  - willimqiao/dsh-plugin-pixel-fishing
+  - … and 3 more
 
 - **Removed: 0**
