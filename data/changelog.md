@@ -1,36 +1,36 @@
-# Changelog — 2026-10-23
+# Changelog — 2026-10-24
 
-- **Added: 31**
-  - 2nianbanjgb/dsh-plugin
-  - ArakawaHenri/dsh-plugin-search
-  - ArakawaHenri/dsh-plugin-session-delete
-  - ArakawaHenri/dsh-plugin-web-fetch-fake-ip
-  - Dogtiti/dsh-plugin-composer-history
-  - Excapesx/dsh-plugins
-  - HengryLiang/dsh-plugin-ai-drama
-  - InariNGT-Ofiicial/dsh-plugin-updates
-  - KardDev/dsh-plugins
-  - MLMLZJ/dsh-plugins
-  - TACO-HUB-web/dsh-plugin-warehouse
-  - TestFox000/dsh-plugin-pets
-  - TonyWu2333/dsh-mercury-diffusion
-  - Yuuyuko-uu/dsh-qq-bridge
-  - classic-takeoff/DSH_Plugins_Source
-  - drliuhuan/dsh-plugin-zoom
-  - eee1723/dsh-houdini
-  - fengzhiyushui/dsh-plugins-update
-  - hy-sde/dsh-plugins
-  - k0ndrateff/dsh-plugins
-  - kingcharleslzy-ai/dsh-qwen-studio
-  - lee259/oh-my-claudian
-  - lingdong0128-sys/dsh-plugin-oauth-subs
-  - nefelibata5136-code/deepseek-harness-digital-life
-  - phao1/dsh-plugin-locked-chats
-  - sakikoTGW/dsh-plugin-resolver
-  - sweet560/dsh-plugin-deepseek-chat
-  - wonderandyou/dsh-admin-mode
-  - zhuzhaoyun/Molio
-  - zjust7/dsh-plugin-market
-  - … and 1 more
+- **Added: 32**
+  - Bai-2008/dsh-better-panel
+  - DEVVE-1/dsh-plugin-file-cleanup
+  - Dax233/dsh-plugins
+  - Dogtiti/dsh-plugin-composer-predict
+  - HackerChi-Hub/hyphenbox-release
+  - InariNGT-Ofiicial/dsh-cover-pipeline
+  - IndieXiaoLong/DSH-Enhance
+  - JialaoLiu/dsh-baton
+  - Lixiaoyiao/DSH-action
+  - LockyBee/dsh-douyin-agent
+  - Loping151/dsh-nekowhale-stickers
+  - Lphehe/dsh-composer-assist
+  - NeoHotaru/dsh-knowledge-canvas
+  - Oxygen640/dsh-plugin-nuaa-search
+  - SteelUnion/dsh-plugin-manual
+  - ZYAONS/dsh-plugin-mascot
+  - alexisvaleev/dsh-plugin-devin
+  - alexisvaleev/dsh-plugin-opencode
+  - ccfwwm/zerowall-dsh-plugins
+  - chunhuachaolu-art/kicad-mcp-dsh-plugin
+  - functy23/dsh-workbuddy-connect-functy
+  - insideyou-0501/dsh-mech-workbench
+  - jianshengchuanchaun/sentaurus-bridge-lite
+  - maxeone/dsh-plugin-clm
+  - oceanbase/powercontext
+  - peng456/dsh-plugin-clawchat
+  - qyy2005/dsh-plugin-labels
+  - reaxlll/dsh-workspace-recollection
+  - varsian/ghost
+  - verseles/codewalk
+  - … and 2 more
 
 - **Removed: 0**
