@@ -1,36 +1,27 @@
-# Changelog — 2026-10-25
+# Changelog — 2026-10-26
 
-- **Added: 782**
-  - 0QwQ0/dsh-ui-auth
-  - 112-Li-del/dsh-im-bridge
-  - 1134478268-dev/dsh-peak-clock
-  - 13323232dong/dsh-tunnel-qr-plugin
-  - 133563825as-ai/dsh-localdream
-  - 173787247/dsh-repeat-stop
-  - 173787247/dsh-wsl-browser
-  - 173787247/dsh-wsl-db
-  - 173787247/dsh-wsl-docker
-  - 173787247/dsh-wsl-glab
-  - 173787247/dsh-wsl-mail
-  - 173787247/dsh-wsl-mnt
-  - 173787247/dsh-wsl-net
-  - 173787247/dsh-wsl-obscura
-  - 173787247/dsh-wsl-obsidian
-  - 173787247/dsh-wsl-ollama
-  - 173787247/dsh-wsl-open
-  - 173787247/dsh-wsl-path
-  - 173787247/dsh-wsl-perf
-  - 173787247/dsh-wsl-port
-  - 173787247/dsh-wsl-secret
-  - 173787247/dsh-wsl-struct
-  - 173787247/dsh-wsl-vecmem
-  - 173787247/dsh-wsl-wslconfig
-  - 1Lany2a/dsh-domain-role
-  - 1parado/dsh-deepseek-web-search
-  - 228co/dsh-deck-pet
-  - 2333hutao/dsh-ls125-uv-probe
-  - 2522669008-zcy/dsh-time-prefix
-  - 2DogsLee/dsh_whalebuddy
-  - … and 752 more
+- **Added: 22**
+  - CC19990113/dsh-plugin-soul
+  - CJXIAO0718/dsh-plugin-session-share
+  - Fei2411/DS-Bot
+  - HaoyanZhang123/dsh-plugin-control-your-capture
+  - HaoyanZhang123/dsh-plugin-control-your-video
+  - InariNGT-Ofiicial/dsh-anime-voice
+  - JayCRL/MobileVC
+  - Minglink/wanxiang-knowledge
+  - Rosynb666/dsh-jiahao-mode
+  - YOYOLnFu/dsh-bili-pond
+  - bruc3van/safer-dsh-market
+  - ccch1mneyyy/dsh-go
+  - cheesehaqi/dsh-qq-onebot-bridge
+  - gychen-NJU/dsh-game-daily
+  - heshengtao/exameow
+  - jadezane6634-ops/dsh-purge-flash
+  - pairun325/dsh-whale-sense
+  - qingmomo233/dsh-thinking-language
+  - seaison/dsh-plugin-eva-theme
+  - student-jia/dsh-plugin-genshin-paimon-theme
+  - uChyis/dsh-plugin-session-purge-target
+  - xianyuyijinban/boardwise
 
 - **Removed: 0**
