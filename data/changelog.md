@@ -1,27 +1,17 @@
-# Changelog — 2026-10-26
+# Changelog — 2026-10-27
 
-- **Added: 22**
-  - CC19990113/dsh-plugin-soul
-  - CJXIAO0718/dsh-plugin-session-share
-  - Fei2411/DS-Bot
-  - HaoyanZhang123/dsh-plugin-control-your-capture
-  - HaoyanZhang123/dsh-plugin-control-your-video
-  - InariNGT-Ofiicial/dsh-anime-voice
-  - JayCRL/MobileVC
-  - Minglink/wanxiang-knowledge
-  - Rosynb666/dsh-jiahao-mode
-  - YOYOLnFu/dsh-bili-pond
-  - bruc3van/safer-dsh-market
-  - ccch1mneyyy/dsh-go
-  - cheesehaqi/dsh-qq-onebot-bridge
-  - gychen-NJU/dsh-game-daily
-  - heshengtao/exameow
-  - jadezane6634-ops/dsh-purge-flash
-  - pairun325/dsh-whale-sense
-  - qingmomo233/dsh-thinking-language
-  - seaison/dsh-plugin-eva-theme
-  - student-jia/dsh-plugin-genshin-paimon-theme
-  - uChyis/dsh-plugin-session-purge-target
-  - xianyuyijinban/boardwise
+- **Added: 12**
+  - 3150481853/molly-qq-whale
+  - Alice39s/agent-stash
+  - Dynesshely/dsh-plugin-notify
+  - TT10-24/dsh-plugin-updater
+  - accomplish07zrh-eng/dsh-aurabot-qq
+  - awaYFawa/dsh-plugins-folders
+  - kingcharleslzy-ai/dsh-purge
+  - kudeerliu48-web/CloseCode
+  - ssamurias/dsh-fish
+  - xiaoxiao150/vram-switcher
+  - zhuyansen/backlink-guard
+  - zhuyansen/new-term-radar
 
 - **Removed: 0**
