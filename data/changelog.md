@@ -1,17 +1,36 @@
-# Changelog — 2026-10-27
+# Changelog — 2026-10-28
 
-- **Added: 12**
-  - 3150481853/molly-qq-whale
-  - Alice39s/agent-stash
-  - Dynesshely/dsh-plugin-notify
-  - TT10-24/dsh-plugin-updater
-  - accomplish07zrh-eng/dsh-aurabot-qq
-  - awaYFawa/dsh-plugins-folders
-  - kingcharleslzy-ai/dsh-purge
-  - kudeerliu48-web/CloseCode
-  - ssamurias/dsh-fish
-  - xiaoxiao150/vram-switcher
-  - zhuyansen/backlink-guard
-  - zhuyansen/new-term-radar
+- **Added: 40**
+  - 8888888888887575/dsh-plugin-masterprompt
+  - Dynesshely/dsh-plugin-wakatime
+  - FJHin/dsh-plugin-session-file-purge
+  - Fanch-hui/dsh-plugin-chatgpt-siwc
+  - GDWhisper/dsh-ntr
+  - LeeX852/dsh-plugins
+  - Nekomeow114/dsh-tieba-dive
+  - NimuStudio/NimuQDock-dsh
+  - Raidenei-tech/dsh-plugin
+  - Rexopia/dsh-plugin-knowra
+  - SAOS-3624/dsh-video-storyboard
+  - SeaViod/dsh-plugin-deepsearch
+  - WSIKUN5/dsh-plugin-mumu
+  - WWFZS/dsh-plugin-startup-animation
+  - ZeningXiong/aramkit-dsh-plugins
+  - Zhizhi-2986/dsh-plugins
+  - ZiChuanLan/agent-purge
+  - adeahejshshsh/coldbrew-dsh
+  - caozeal/dsh-plugins
+  - feng-yifan/dsh-plugins
+  - ft54482/chengzipro-dsh-plugin
+  - gcggcg/dsh-plugin-session-view
+  - hairyf/dsh-office-kit
+  - heqinjian/dsh-plugin-pkt
+  - icyaaaww/dsh-soul
+  - joeseesun/qiaomu-home-dsh
+  - joeseesun/qiaomu-ui-learn-dsh
+  - john-walks-slow/dsh-inject
+  - regrevia/dsh-unlag
+  - shellRaining/dsh-plugins
+  - … and 10 more
 
 - **Removed: 0**
