@@ -1,28 +1,28 @@
-# Changelog — 2026-10-29
+# Changelog — 2026-10-30
 
 - **Added: 23**
-  - 01men/ybkkasi
-  - Dark2932/dsh-plugins
-  - Hilyce/dsh-plugin-chemdraw
-  - IvenKooLab/desktop-pet
-  - JeremyLyc/dsh-plugin-ssh
-  - LuYanFCP/dsh-kicad
-  - Makesupper/dsh-plugin-muyu
-  - Prism-Shadow/awesome-rsi
-  - SteelUnion/dsh-confirm-gate
-  - Ultroncn/dsh-archived-chats
-  - ZH-TX3/dsh-plugins
-  - dingchenhui0618-arch/dsh-in-hand
-  - gcggcg/dsh-plugin-session-cleaner
-  - htmsty/autoThuDeepSeekAPI
-  - huzhengcai471-crypto/dsh-startup-secret
-  - kdcadmin/dsh_douyin_tools
-  - keyblues/dsh-plugin-everything
-  - sakikoTGW/dsh-plugin-tailor
-  - tailong-wu/dsh-plugin-dayflow
-  - taxueseek/plugin-fast-adapt
-  - tjiisztiuv/dsh-plugin-discord
-  - wyx135230/DeepSeek-Office
-  - xiaoguai009/xiaoguai-dsh-armor
+  - 66jiujiu99/dsh-plugin-remote-mobile
+  - 6shenhonghong9/dsh-startup-screen
+  - Elio896/dsh-familiar-memory
+  - HuanLinOTO/dsh-plugin-better-sidebar-plugin-audio
+  - KERBALMans/dsh-plugin-studio
+  - OrderG-X/dsh-design-studio
+  - Silasvanceneo/claude-ojousama
+  - USE-arsh/my-dsh-plugin
+  - YunzhouLi-hub/dsh-overall-mcp
+  - ZXEB/dsh-purge
+  - ZipengWu365/TOMC
+  - ccch1mneyyy/dsh-Go
+  - farion1231/cc-switch
+  - huaguoxingkong/dsh-prompt-rewriter
+  - jackwener/DeepseekHarness-Android
+  - monagisa/dsh-plugin-shop-accounts
+  - op7418/malfoy-desktop
+  - oxmumu3/dsh-plugin-finder
+  - tdcq9594/dsh-roost
+  - x-mug/dsh-plugins
+  - xuyalunyy-lgtm/dsh-Plugin
+  - yoyococo1234/dsh-plugin-mcp-switch
+  - zhong-1212/dsh-plugins
 
 - **Removed: 0**
