@@ -1,33 +1,33 @@
 {
- "total": 10791,
- "updated": "2026-10-30T09:31:06+00:00",
+ "total": 10818,
+ "updated": "2026-10-31T09:14:04+00:00",
  "by_category": {
-  "agents": 2307,
-  "ui": 2856,
-  "dev": 1054,
-  "eco": 214,
+  "agents": 2312,
+  "ui": 2862,
+  "dev": 1057,
+  "eco": 215,
   "web": 415,
   "sessions": 724,
-  "other": 2159,
-  "knowledge": 204,
+  "other": 2166,
+  "knowledge": 207,
   "media": 188,
   "fun": 115,
-  "integrations": 183,
-  "util": 372
+  "integrations": 184,
+  "util": 373
  },
  "by_language": {
-  "TypeScript": 3410,
-  "Go": 62,
-  "Python": 588,
-  "JavaScript": 5739,
+  "TypeScript": 3414,
+  "Go": 63,
+  "Python": 593,
+  "JavaScript": 5753,
   "Rust": 144,
-  "HTML": 104,
+  "HTML": 105,
   "None": 321,
   "Shell": 73,
   "Vue": 5,
   "C#": 71,
-  "Kotlin": 26,
-  "PowerShell": 118,
+  "Kotlin": 27,
+  "PowerShell": 119,
   "C++": 8,
   "CSS": 18,
   "Swift": 40,
@@ -55,5 +55,5 @@
   "MoonBit": 1,
   "Objective-C": 1
  },
- "tag_only": 635
+ "tag_only": 637
 }

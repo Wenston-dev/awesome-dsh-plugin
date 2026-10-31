@@ -1,28 +1,32 @@
-# Changelog — 2026-10-30
+# Changelog — 2026-10-31
 
-- **Added: 23**
-  - 66jiujiu99/dsh-plugin-remote-mobile
-  - 6shenhonghong9/dsh-startup-screen
-  - Elio896/dsh-familiar-memory
-  - HuanLinOTO/dsh-plugin-better-sidebar-plugin-audio
-  - KERBALMans/dsh-plugin-studio
-  - OrderG-X/dsh-design-studio
-  - Silasvanceneo/claude-ojousama
-  - USE-arsh/my-dsh-plugin
-  - YunzhouLi-hub/dsh-overall-mcp
-  - ZXEB/dsh-purge
-  - ZipengWu365/TOMC
-  - ccch1mneyyy/dsh-Go
-  - farion1231/cc-switch
-  - huaguoxingkong/dsh-prompt-rewriter
-  - jackwener/DeepseekHarness-Android
-  - monagisa/dsh-plugin-shop-accounts
-  - op7418/malfoy-desktop
-  - oxmumu3/dsh-plugin-finder
-  - tdcq9594/dsh-roost
-  - x-mug/dsh-plugins
-  - xuyalunyy-lgtm/dsh-Plugin
-  - yoyococo1234/dsh-plugin-mcp-switch
-  - zhong-1212/dsh-plugins
+- **Added: 27**
+  - 2177302423qqcom-byte/whale-voice
+  - 555bbbAAA/dsh-purge
+  - Akillll-DuoHe/fy-code-animation
+  - DSH-Raising-Plan/dsh-mnemosyne
+  - Khorsheed/dsh-plugins
+  - NoMindSama/qq-dsh-bridge
+  - RestRegular/dsh-memory
+  - Soviet-Dreadnaught/dsh-theme-longmarch
+  - Tulipe1735/dsh-plugin-kefu
+  - WJDdidi-1/dsh-plugin-toolkit
+  - WNLUO/dsh-mobile-plugin
+  - anye-99/dsh-codearts-auth
+  - chenxiang6663635/job-workbench
+  - derkinL/dsh-remembers
+  - dustinliang666-blip/lava-mcp
+  - eburo233/dsh-plugin-llminqq
+  - functy23/dsh-workbuddy-panel
+  - fysh1010/mcp-server-fanqie
+  - jackwener/DSH-Android
+  - jijijitian/dsh-plugin-sync
+  - lifangjin/dsh-maoying
+  - op7418/dsh-guizang-design
+  - openclaw-xian/dsh-plugin-pdd-product-listing
+  - romany-saad/dsh-plugins
+  - xqpsec/dsh-jailbreak
+  - xxy0722/dsh-purge-deep
+  - zyphraxns/dsh-plugin-engineering
 
 - **Removed: 0**
