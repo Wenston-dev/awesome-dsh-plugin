@@ -1,32 +1,36 @@
-# Changelog — 2026-10-31
+# Changelog — 2026-11-01
 
-- **Added: 27**
-  - 2177302423qqcom-byte/whale-voice
-  - 555bbbAAA/dsh-purge
-  - Akillll-DuoHe/fy-code-animation
-  - DSH-Raising-Plan/dsh-mnemosyne
-  - Khorsheed/dsh-plugins
-  - NoMindSama/qq-dsh-bridge
-  - RestRegular/dsh-memory
-  - Soviet-Dreadnaught/dsh-theme-longmarch
-  - Tulipe1735/dsh-plugin-kefu
-  - WJDdidi-1/dsh-plugin-toolkit
-  - WNLUO/dsh-mobile-plugin
-  - anye-99/dsh-codearts-auth
-  - chenxiang6663635/job-workbench
-  - derkinL/dsh-remembers
-  - dustinliang666-blip/lava-mcp
-  - eburo233/dsh-plugin-llminqq
-  - functy23/dsh-workbuddy-panel
-  - fysh1010/mcp-server-fanqie
-  - jackwener/DSH-Android
-  - jijijitian/dsh-plugin-sync
-  - lifangjin/dsh-maoying
-  - op7418/dsh-guizang-design
-  - openclaw-xian/dsh-plugin-pdd-product-listing
-  - romany-saad/dsh-plugins
-  - xqpsec/dsh-jailbreak
-  - xxy0722/dsh-purge-deep
-  - zyphraxns/dsh-plugin-engineering
+- **Added: 610**
+  - 1015677515/dsh-theme-holo
+  - 1437338101-lgtm/DeepSeek-Harness-macos-launcher
+  - 15372010668-dot/dsh-pet-whale
+  - 17897693/dsh-wen
+  - 1azybug/dsh-real-time-computer-use
+  - 2002XiaoYu/dsh-session-diff
+  - 2NF/dsh-profile-bridge
+  - 321sssrt-bit/STOP-PUSHING-SHIT
+  - 3450892121/dsh-task-monitor
+  - 3520566741-YCLi/personal-harness
+  - 4399Accelerator/dsh-study-planner
+  - 452926826/dsh-feishu-bot
+  - 9527ccccccc/dsh-build-plan-mode
+  - 9Ashwin/dsh-session-rename
+  - A8Chann/dsh_desktop
+  - ADDD1118/dsh-balance
+  - ADkun/agentic-doc-skill
+  - AEmbers/dsh-adjudication
+  - AFAP/dsh-token-usage
+  - AGImentu/dsh-turn-chime
+  - AIAgentAndy/DeepAA
+  - AKS1st/dock-media
+  - Aenotr/local-imagegen-skill
+  - Aidenwu0209/dsh-Unlimited-OCR-Skill
+  - AllShadowAnan/dsh-context-compressor
+  - Amo-aibiancheng/dsh-balance-meter
+  - AnLifeX/dsh-credits
+  - AndKinoko/DSH-Search-Citation-Auditor
+  - Anlerway/dsh-session-navigator
+  - Arbeiter-bit/dsh-reedit
+  - … and 580 more
 
 - **Removed: 0**
