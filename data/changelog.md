@@ -1,36 +1,24 @@
-# Changelog — 2026-11-01
+# Changelog — 2026-11-02
 
-- **Added: 610**
-  - 1015677515/dsh-theme-holo
-  - 1437338101-lgtm/DeepSeek-Harness-macos-launcher
-  - 15372010668-dot/dsh-pet-whale
-  - 17897693/dsh-wen
-  - 1azybug/dsh-real-time-computer-use
-  - 2002XiaoYu/dsh-session-diff
-  - 2NF/dsh-profile-bridge
-  - 321sssrt-bit/STOP-PUSHING-SHIT
-  - 3450892121/dsh-task-monitor
-  - 3520566741-YCLi/personal-harness
-  - 4399Accelerator/dsh-study-planner
-  - 452926826/dsh-feishu-bot
-  - 9527ccccccc/dsh-build-plan-mode
-  - 9Ashwin/dsh-session-rename
-  - A8Chann/dsh_desktop
-  - ADDD1118/dsh-balance
-  - ADkun/agentic-doc-skill
-  - AEmbers/dsh-adjudication
-  - AFAP/dsh-token-usage
-  - AGImentu/dsh-turn-chime
-  - AIAgentAndy/DeepAA
-  - AKS1st/dock-media
-  - Aenotr/local-imagegen-skill
-  - Aidenwu0209/dsh-Unlimited-OCR-Skill
-  - AllShadowAnan/dsh-context-compressor
-  - Amo-aibiancheng/dsh-balance-meter
-  - AnLifeX/dsh-credits
-  - AndKinoko/DSH-Search-Citation-Auditor
-  - Anlerway/dsh-session-navigator
-  - Arbeiter-bit/dsh-reedit
-  - … and 580 more
+- **Added: 19**
+  - CorgiCorner/bisibility-dsh-plugin
+  - Fleey/dsh-plugin-autoreview
+  - Frostyume/xiaojingyu
+  - LotusPrimeUmbra/dsh-plugin-tts
+  - OmMaBaMiHong/superman-dsh-plugin
+  - Ryder191/haloflux
+  - SAOS-3624/dsh-see-now
+  - aide-family/moon
+  - buxinzi2233/dsh-plugin-config
+  - fgg01-code/dsh-plugin-publish
+  - jitianjiyan/dsh-auth-cookie-guard
+  - linxule/kimi-plugin-cc
+  - lxj5820/dsh-boot-animation
+  - openguardrails/openguardrails-spec
+  - redhair4740/dsh-plugins
+  - thawline/dsh-memewiki
+  - woniuniuniu/dsh-media-desk
+  - zhehegoto/dsh-plugins
+  - zhuchongba-01/dsh-breach
 
 - **Removed: 0**
