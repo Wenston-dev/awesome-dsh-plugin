@@ -1,32 +1,22 @@
-# Changelog — 2026-11-03
+# Changelog — 2026-11-04
 
-- **Added: 27**
-  - Alfred-Lau/dsh-plugins
-  - Burns1028/dsh-plugin-project-mode
-  - CC19990113/dsh-plugin-sessiongraph
-  - Chiyang001/DSH_Plugin_Store
-  - GoldenLoaf24h/browserpaw
-  - Kesuan/dsh-plugins
-  - PerryLink/dsh-plugin-certification
-  - Roland0511/dsh-marktext
-  - VANuVANuu/dsh-plugin-undermind
-  - XZ12345678-CREATE/dsh-plugins
-  - alchaincyf/nuwa-skill
-  - c048J1/dsh-plugin-tts
-  - czdcm/dsh-plugin-corpus
-  - dxxo77/DSH_plugin
-  - gcggcg/dsh-plugin-wechat-dingtalk
-  - krnzhnr/dsh-plugins
-  - lingmao233/dsh-plugin-attune-wechat-agent
-  - msongw-design/dsh-plugin-projects
-  - poco-ai/Agentero
-  - poco-ai/agentero-dsh-plugin
-  - regrevia/dsh-chat-link-actions
-  - sarimmohib/dsh-plugin-patches
-  - sunaono1/dsh-plugin-offwork
-  - suveng/dsh-plugin-feishu
-  - whitequeen306/dsh-logistics
-  - yjl9903/AnimeGarden
-  - yuanstarstar/dsh-game-stack
+- **Added: 17**
+  - 123zxs345/dsh-plugin-companion-memory
+  - HunYiSage/dsh-purge
+  - IceWhaleTech/filens
+  - MerkyorLynn/dsh-live-compact
+  - Mrsirlila/dsh-pocket-plus
+  - SanZiNEO/resume-builder
+  - alchaincyf/huashu-design
+  - alchaincyf/huashu-excel
+  - c137650/dsh-plugin-life
+  - darkings/dsh-plugin-update-center
+  - doujiaozh/dsh-plugin-coreldraw
+  - gmjneko/dsh-plugins
+  - helloHub1212/dsh-windows-mcp
+  - jijijitian/dsh-plugin-syncup
+  - lijiaqi-AI-Product-Manager/dsh-agent-compare
+  - yiheng-zyh/DSH-Pal
+  - zydxn77/dsh-plugin-tiles
 
 - **Removed: 0**
