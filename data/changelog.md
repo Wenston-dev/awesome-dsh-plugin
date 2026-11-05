@@ -1,22 +1,36 @@
-# Changelog — 2026-11-04
+# Changelog — 2026-11-05
 
-- **Added: 17**
-  - 123zxs345/dsh-plugin-companion-memory
-  - HunYiSage/dsh-purge
-  - IceWhaleTech/filens
-  - MerkyorLynn/dsh-live-compact
-  - Mrsirlila/dsh-pocket-plus
-  - SanZiNEO/resume-builder
-  - alchaincyf/huashu-design
-  - alchaincyf/huashu-excel
-  - c137650/dsh-plugin-life
-  - darkings/dsh-plugin-update-center
-  - doujiaozh/dsh-plugin-coreldraw
-  - gmjneko/dsh-plugins
-  - helloHub1212/dsh-windows-mcp
-  - jijijitian/dsh-plugin-syncup
-  - lijiaqi-AI-Product-Manager/dsh-agent-compare
-  - yiheng-zyh/DSH-Pal
-  - zydxn77/dsh-plugin-tiles
+- **Added: 31**
+  - ChenJun25/dsh-console-plugin
+  - CixiSVesper/dsh-soundtry
+  - Fishsb/dsh-voice-prompt-enhancer
+  - HiAi-gg/docsmint
+  - Jeff-Kazzee/dsh-plugins
+  - Kerberos255/dsh-plugin-diagnostics
+  - Lain-in-coding/dsh-grok-search
+  - MYCF711/dsh-plugin-forge
+  - Mladery/pojia-ce
+  - NormalAorii/dsh-plugin-ffxiv
+  - Plaud-AI/Plaud_DSH_plugins
+  - RedHeartSecretMan/dsh-plugins
+  - YaoleWu/dsh-plugin-release
+  - Zilize/parallax-dsh
+  - frostming/dsh-hongguo
+  - hjhcos/dsh-plugin-discovery
+  - hxzzxrx/dsh-plugins
+  - louke6572/dsh-Dfy
+  - luckui/dsh-game
+  - meat-daemon-404/dsh-plugin-immune
+  - murongg/daban
+  - nia-teams/dsh-plugin
+  - oriliz/dsh-mcp-apps-host
+  - sanmugs0409-dotcom/dsh-plugin
+  - uptick7/dsh-plugins
+  - woshiwenjunjie/dsh-plugins
+  - wufeng0105/dsh-enhance
+  - yang0/dsh-handraw-style
+  - zabuxie/vc-voice-train-skill
+  - zzcyydshhh/comfy-png-inspector
+  - … and 1 more
 
 - **Removed: 0**
