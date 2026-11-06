@@ -1,36 +1,36 @@
-# Changelog — 2026-11-05
+# Changelog — 2026-11-06
 
-- **Added: 31**
-  - ChenJun25/dsh-console-plugin
-  - CixiSVesper/dsh-soundtry
-  - Fishsb/dsh-voice-prompt-enhancer
-  - HiAi-gg/docsmint
-  - Jeff-Kazzee/dsh-plugins
-  - Kerberos255/dsh-plugin-diagnostics
-  - Lain-in-coding/dsh-grok-search
-  - MYCF711/dsh-plugin-forge
-  - Mladery/pojia-ce
-  - NormalAorii/dsh-plugin-ffxiv
-  - Plaud-AI/Plaud_DSH_plugins
-  - RedHeartSecretMan/dsh-plugins
-  - YaoleWu/dsh-plugin-release
-  - Zilize/parallax-dsh
-  - frostming/dsh-hongguo
-  - hjhcos/dsh-plugin-discovery
-  - hxzzxrx/dsh-plugins
-  - louke6572/dsh-Dfy
-  - luckui/dsh-game
-  - meat-daemon-404/dsh-plugin-immune
-  - murongg/daban
-  - nia-teams/dsh-plugin
-  - oriliz/dsh-mcp-apps-host
-  - sanmugs0409-dotcom/dsh-plugin
-  - uptick7/dsh-plugins
-  - woshiwenjunjie/dsh-plugins
-  - wufeng0105/dsh-enhance
-  - yang0/dsh-handraw-style
-  - zabuxie/vc-voice-train-skill
-  - zzcyydshhh/comfy-png-inspector
-  - … and 1 more
+- **Added: 40**
+  - CC19990113/dsh-plugin-dbgraph
+  - Fanlr1/dsh-plugins
+  - Gen-Verse/Science-Last-Exam
+  - HiddenPuppy/dsh-plugin-discovery
+  - Jaylor-Wang/dsh-plugin-agent-optimizer
+  - MYCF711/dsh-session-superagent
+  - MagCrisps/dsh-plugin-pardon
+  - Meqjn-Ousapva/pyforai-dsh-plugin
+  - QuestMeet/opportunity-skill
+  - TianzeLuo/dsh-plugins
+  - Vontean/vt-dsh-plugin
+  - ZSeven-W/dsh-game-studio
+  - aa1143/NamiDSH
+  - dbcaskml183-dotcom/dsh-prelude
+  - fujingzhai/youxia-dsh-plugins
+  - guang-gui/dsh-plugin
+  - hybroai/hybro
+  - imsai-sh/fish-pocket
+  - kangyishuai/dsh-plugins
+  - mas-bandwidth/nova-sprint
+  - nanrener/dsh-plugin-qiyao
+  - nineberg/dsh-plugin-island
+  - nineberg/dsh-plugin-stock
+  - onehumanbeing/esp32-iphone-agent
+  - s17765152890-gif/dsh-plugin-external-session-sync
+  - schrieeeffer/harness-launcher
+  - ssf13546/dsh-delta-theme
+  - suveng/dsh-plugin-memory
+  - tencentmusic/modus
+  - tonyzdev/dsh-language-bridge
+  - … and 10 more
 
 - **Removed: 0**
