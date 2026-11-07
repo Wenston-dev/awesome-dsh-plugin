@@ -1,36 +1,27 @@
-# Changelog — 2026-11-06
+# Changelog — 2026-11-07
 
-- **Added: 40**
-  - CC19990113/dsh-plugin-dbgraph
-  - Fanlr1/dsh-plugins
-  - Gen-Verse/Science-Last-Exam
-  - HiddenPuppy/dsh-plugin-discovery
-  - Jaylor-Wang/dsh-plugin-agent-optimizer
-  - MYCF711/dsh-session-superagent
-  - MagCrisps/dsh-plugin-pardon
-  - Meqjn-Ousapva/pyforai-dsh-plugin
-  - QuestMeet/opportunity-skill
-  - TianzeLuo/dsh-plugins
-  - Vontean/vt-dsh-plugin
-  - ZSeven-W/dsh-game-studio
-  - aa1143/NamiDSH
-  - dbcaskml183-dotcom/dsh-prelude
-  - fujingzhai/youxia-dsh-plugins
-  - guang-gui/dsh-plugin
-  - hybroai/hybro
-  - imsai-sh/fish-pocket
-  - kangyishuai/dsh-plugins
-  - mas-bandwidth/nova-sprint
-  - nanrener/dsh-plugin-qiyao
-  - nineberg/dsh-plugin-island
-  - nineberg/dsh-plugin-stock
-  - onehumanbeing/esp32-iphone-agent
-  - s17765152890-gif/dsh-plugin-external-session-sync
-  - schrieeeffer/harness-launcher
-  - ssf13546/dsh-delta-theme
-  - suveng/dsh-plugin-memory
-  - tencentmusic/modus
-  - tonyzdev/dsh-language-bridge
-  - … and 10 more
+- **Added: 22**
+  - AstraxOf/web-mcp-bridge
+  - Burns1028/moa-plus
+  - Fishsb/dsh-plugin-roundtable
+  - JunsonJack/dsh-plugins
+  - Ke-wood/dsh-haloflux
+  - LilycleHeart/dsh-liuli-ui-enhance
+  - Lovenndme/dsh-profile-stats
+  - Tranquillitatis-Lab/dsh-live-compact
+  - Tranquillitatis-Lab/dsh-office-kit
+  - WinterOne-hub/dsh-plugin-pulse
+  - dataelement/bisheng
+  - l246804/dsh-pstack
+  - liangzz1998/dsh-doubao-painter
+  - lili-luo/dsh-plugin-bundle
+  - lishize20040802-rgb/dsh-deep-ptc-mode
+  - mitkox/dsh-herdr
+  - referiw/dsh-plugin-tieba
+  - stuPETER12138/dsh-plugins
+  - thawline/dsh-wechat-bridge
+  - xkk6663/dsh-live2d-mao
+  - yinwu01/DeepSeek-Ducktor
+  - zccz14/dsh-plugin-um
 
 - **Removed: 0**
