@@ -1,27 +1,36 @@
-# Changelog — 2026-11-07
+# Changelog — 2026-11-08
 
-- **Added: 22**
-  - AstraxOf/web-mcp-bridge
-  - Burns1028/moa-plus
-  - Fishsb/dsh-plugin-roundtable
-  - JunsonJack/dsh-plugins
-  - Ke-wood/dsh-haloflux
-  - LilycleHeart/dsh-liuli-ui-enhance
-  - Lovenndme/dsh-profile-stats
-  - Tranquillitatis-Lab/dsh-live-compact
-  - Tranquillitatis-Lab/dsh-office-kit
-  - WinterOne-hub/dsh-plugin-pulse
-  - dataelement/bisheng
-  - l246804/dsh-pstack
-  - liangzz1998/dsh-doubao-painter
-  - lili-luo/dsh-plugin-bundle
-  - lishize20040802-rgb/dsh-deep-ptc-mode
-  - mitkox/dsh-herdr
-  - referiw/dsh-plugin-tieba
-  - stuPETER12138/dsh-plugins
-  - thawline/dsh-wechat-bridge
-  - xkk6663/dsh-live2d-mao
-  - yinwu01/DeepSeek-Ducktor
-  - zccz14/dsh-plugin-um
+- **Added: 595**
+  - 0xLyn77/ProMentor
+  - 1032740078/dsh-web-url-view
+  - 1052326311/dsh-ask-first
+  - 1129742588/dsh-memory-tiers
+  - 1317209322/calorie-deficit-tracker
+  - 133563825as-ai/dsh-asmrone
+  - 1816586742-stack/jev-craft
+  - 1wanganshi/dsh-marketing-toolkit
+  - 23132131242/ctf-crypto-solver-dsh
+  - 23J1633/DSH-PC-Manager
+  - 23J1633/GoForge
+  - 2861292267/dsh-prompt-forge
+  - 33Wade333/data-model-builder
+  - 33Wade333/dsh-dashboard-ai
+  - 373158808qq-cmd/dsh-memory-palace
+  - 439436269-ctrl/dsh-video-pipeline
+  - 782042369/dsh-model-compat-guard
+  - 863683348/dsh-memory-setup
+  - 912D/dsh-plugin-symbai-deepseek
+  - 969246694/dsh-wisp
+  - AHui-Lab/dsh-usage-widget
+  - AL-Yichen/dsh-fullscreen-input
+  - ALIWUER/dsh-process-panel
+  - ANOKO1122/dsh-checkpoints
+  - Abyssun/dsh-achievements
+  - Aik358/dsh-mini-window
+  - AkiHaruka/companion-memory
+  - Alphainfix/dsh-whale
+  - Ame-Choo/dsh-study-coach
+  - Anarrogantcat/dsh-identity
+  - … and 565 more
 
 - **Removed: 0**
