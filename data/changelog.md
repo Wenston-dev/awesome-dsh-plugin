@@ -1,36 +1,30 @@
-# Changelog — 2026-11-08
+# Changelog — 2026-11-09
 
-- **Added: 595**
-  - 0xLyn77/ProMentor
-  - 1032740078/dsh-web-url-view
-  - 1052326311/dsh-ask-first
-  - 1129742588/dsh-memory-tiers
-  - 1317209322/calorie-deficit-tracker
-  - 133563825as-ai/dsh-asmrone
-  - 1816586742-stack/jev-craft
-  - 1wanganshi/dsh-marketing-toolkit
-  - 23132131242/ctf-crypto-solver-dsh
-  - 23J1633/DSH-PC-Manager
-  - 23J1633/GoForge
-  - 2861292267/dsh-prompt-forge
-  - 33Wade333/data-model-builder
-  - 33Wade333/dsh-dashboard-ai
-  - 373158808qq-cmd/dsh-memory-palace
-  - 439436269-ctrl/dsh-video-pipeline
-  - 782042369/dsh-model-compat-guard
-  - 863683348/dsh-memory-setup
-  - 912D/dsh-plugin-symbai-deepseek
-  - 969246694/dsh-wisp
-  - AHui-Lab/dsh-usage-widget
-  - AL-Yichen/dsh-fullscreen-input
-  - ALIWUER/dsh-process-panel
-  - ANOKO1122/dsh-checkpoints
-  - Abyssun/dsh-achievements
-  - Aik358/dsh-mini-window
-  - AkiHaruka/companion-memory
-  - Alphainfix/dsh-whale
-  - Ame-Choo/dsh-study-coach
-  - Anarrogantcat/dsh-identity
-  - … and 565 more
+- **Added: 25**
+  - Chih-Kai-Wang/dsh-plugin-verified-search
+  - FJNB5/fujiang-pojia
+  - HY-hue113/ppt-effects
+  - NormalAorii/dsh-plugin-outlast
+  - NorthGateChat/dsh-think-game
+  - PerryLink/dsh-param-repair
+  - QuestMeet/questmeet-skill
+  - Scodive/Paper-Agent-Skills
+  - Yuuyuko-uu/dsh-xingxi
+  - afawfawffaf/dsh-plugin-lx-music
+  - cloudoyx/any-audio
+  - degraw4/dsh-tool-discovery
+  - guohwa/dsh-plugin-image-workbench
+  - huawei-developers/aishell-dsh-plugins
+  - peterpoal134/memory-brain
+  - runzhliu/welink
+  - skyrocks/dsh-plugins
+  - tw93/Mole
+  - w1251788888-web/moxi-drama-studio
+  - xiguazhiPrince/dsh-plugin-api-gallery
+  - xrzhai/dsh-plugin-wechat
+  - yanjie098/dsh-plugin-health-manager
+  - yoletPig/dsh-plugin-rapidspeech
+  - zhukunpenglinyutong/dsh-ccgui
+  - zmaolong/dsh-plugins
 
 - **Removed: 0**
