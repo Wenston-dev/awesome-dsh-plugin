@@ -1,25 +1,25 @@
 {
- "total": 12255,
- "updated": "2026-11-11T10:14:19+00:00",
+ "total": 12283,
+ "updated": "2026-11-12T10:36:12+00:00",
  "by_category": {
-  "agents": 2659,
-  "ui": 3255,
-  "dev": 1201,
-  "eco": 230,
+  "agents": 2663,
+  "ui": 3259,
+  "dev": 1207,
+  "eco": 232,
   "web": 455,
-  "sessions": 831,
-  "other": 2397,
-  "knowledge": 240,
-  "media": 224,
-  "fun": 129,
+  "sessions": 830,
+  "other": 2403,
+  "knowledge": 241,
+  "media": 227,
+  "fun": 130,
   "integrations": 216,
-  "util": 418
+  "util": 420
  },
  "by_language": {
-  "TypeScript": 3742,
-  "Go": 70,
-  "Python": 698,
-  "JavaScript": 6662,
+  "TypeScript": 3750,
+  "Go": 71,
+  "Python": 697,
+  "JavaScript": 6679,
   "Rust": 155,
   "HTML": 112,
   "None": 343,
@@ -28,9 +28,9 @@
   "C#": 80,
   "Kotlin": 33,
   "PowerShell": 129,
-  "C++": 8,
+  "C++": 10,
   "CSS": 21,
-  "Swift": 47,
+  "Swift": 48,
   "GDScript": 2,
   "Java": 22,
   "Dockerfile": 1,
@@ -56,5 +56,5 @@
   "Objective-C": 1,
   "Slint": 1
  },
- "tag_only": 727
+ "tag_only": 732
 }
