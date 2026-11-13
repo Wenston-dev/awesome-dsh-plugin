@@ -1,33 +1,25 @@
-# Changelog — 2026-11-12
+# Changelog — 2026-11-13
 
-- **Added: 28**
-  - CSUNX233/Sparkle-Qwen27b-Kvmem-ninfer
-  - Deiael/dsh-live-vibeCoding
-  - MJ-CJM/DSH-Bot
-  - Old-Friends-Gathering/sedimem
-  - RyanZhangNTU/codex-pacer
-  - WforEvery/dsh-runtime-log
-  - aishenkiki/dsh-go-exam-helper
-  - automagik-si/genie
-  - automagik-si/omni
-  - brickhu/dsh-plugins
-  - cybeshi/dsh-plugin-whale-butler
-  - dsh-hub-managers/dsh-hub-plugin
-  - hanliang97/dsh-plugin-matrixmedia
-  - isayrhythm/dsh-plugins
-  - karla-zhang/dsh-plugin-guardkit
-  - kp-z/dsh-plugins
-  - kqhub-win/dsh-plugin-kqhub
-  - kunkundi/crossdesk
-  - lizi600jin/dsh-ensp
-  - mearihaka/dsh-longing
-  - nexu-io/openmotion
-  - nullutz/dsh-plugin-appstudio
-  - pcmid/dsh-plugins
-  - sdf123098/dsh-plugin-axolotl
-  - slimeball2026/DSH-Coach-mode
-  - ygzhang-lab/dsh-plugin-codex-coding
-  - yuna78/dsh-plugin-yushe
-  - zhibaiYingChuan/dsh-plugin-lrc
+- **Added: 20**
+  - AumiSatori/dsh-ui-beautify
+  - DandanLLab/dsh-plugin-team-group
+  - Delthin/dsh-plugins
+  - Dynesshely/dsh-plugin-portara
+  - JKZeng-cell/moki-library-for-dsh
+  - MatsuriMW/obsidian-agent-deck
+  - NANA7MI0/dsh-purge-go
+  - NeoJubao/dsh-fde
+  - WeipengMO/dsh-plugin-remote-ssh
+  - ZIRAN456/dsh-plugins
+  - Zhizhi-2986/dsh-plugins-enhanced
+  - ai-v5/dsh-plugin-aside
+  - chenzhihan1751-cyber/dsh-plugin-porter
+  - h958661134/dsh-plugin-dot
+  - kmetia/kmet-agent
+  - kookoolive/dsh-plugin-telleru
+  - lcy0121/dsh-plugin-compat-check
+  - lightsifter/sift-light
+  - skillpie/dsh-plugins
+  - zmz123612/dsh-plugin-book-deconstruct
 
 - **Removed: 0**
