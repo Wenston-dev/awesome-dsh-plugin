@@ -1,25 +1,21 @@
-# Changelog — 2026-11-13
+# Changelog — 2026-11-14
 
-- **Added: 20**
-  - AumiSatori/dsh-ui-beautify
-  - DandanLLab/dsh-plugin-team-group
-  - Delthin/dsh-plugins
-  - Dynesshely/dsh-plugin-portara
-  - JKZeng-cell/moki-library-for-dsh
-  - MatsuriMW/obsidian-agent-deck
-  - NANA7MI0/dsh-purge-go
-  - NeoJubao/dsh-fde
-  - WeipengMO/dsh-plugin-remote-ssh
-  - ZIRAN456/dsh-plugins
-  - Zhizhi-2986/dsh-plugins-enhanced
-  - ai-v5/dsh-plugin-aside
-  - chenzhihan1751-cyber/dsh-plugin-porter
-  - h958661134/dsh-plugin-dot
-  - kmetia/kmet-agent
-  - kookoolive/dsh-plugin-telleru
-  - lcy0121/dsh-plugin-compat-check
-  - lightsifter/sift-light
-  - skillpie/dsh-plugins
-  - zmz123612/dsh-plugin-book-deconstruct
+- **Added: 16**
+  - 132wbl/DSH-plugin
+  - 214140846/browser-hands
+  - HandlerOne01/dsh-purge
+  - JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops
+  - JimLiu/open-artifacts
+  - Pasumao/dsh-plugin-windows-guard
+  - QIANLING-0831/dsh-memory-pro
+  - Xavier14-aqua/DSH_memory
+  - angel291592/dsh-submodel
+  - hybroai/a2a-adapter
+  - kingcharleslzy-ai/DSH-Spicy
+  - liangdabiao/dsh-resume-matcher
+  - shuai0503/dsh-plugin-provider-console
+  - suifei/dsh-ai-team
+  - xiaopu-ai/dsh-plugin-media
+  - yuunisan/dsh-plugin-sound
 
 - **Removed: 0**
