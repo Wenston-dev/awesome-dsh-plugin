@@ -1,36 +1,21 @@
-# Changelog — 2026-11-15
+# Changelog — 2026-11-16
 
-- **Added: 835**
-  - 030611/dsh-companion-studio
-  - 0928OYX/dsh-free-skins
-  - 111xjyuan/dsh-taffy-pet
-  - 1622352030/ansys-agent-bridge
-  - 17-qxm/dsh-virtual-coding-plan
-  - 17861102832/wanyimem
-  - 2026heshao/dsh-draft-attachments
-  - 2026heshao/dsh-forget-session
-  - 2026heshao/dsh-obsidian-board
-  - 245678000000/dsh-autopilot
-  - 27painter/dsh-sw-cad
-  - 3570548848/dsh-decky
-  - 3ChatAI-NCT/3chatai-deepseek-harness-plugin
-  - 447662/dsh-native-codex-cli
-  - 456erddgr/dsh-boo550wt-animation
-  - 544244857/dsh-image2-plugin
-  - 571242/dsh-armor-switch
-  - 66wjz/dsh-model-cap
-  - 6pofx/dsh-tool-explorer
-  - 7dgroup-ai/dsh-skill-7d-git-commit
-  - 9426Haruka/dsh-markdown-live
-  - AFAP/dsh-trajectory-traceview
-  - AL1ghtm3ter/dsh-right-click-menu
-  - ANHANP/dsh-branch-tree
-  - ARSI-LAB/ARSI-Evaluator
-  - Akillll-DuoHe/voice-grafting
-  - Akiyuki1130/dsh-ark-coding-provider
-  - AkotaP/dsh-status-flair
-  - Alan-dong-dong/dsh-knowledge-library
-  - AlannerFranklin/dsh-cutout-pet
-  - … and 805 more
+- **Added: 16**
+  - AI4XE/Parallax
+  - Bytedesk/bytedesk
+  - ChenJun25/dsh-console-hm
+  - Derek-Y-JQ/knowledge-galaxy
+  - JasperGuWP/dsh-plugin-whale-soulmate
+  - Jeck1204/dsh-plugin-sticky-wall-multipage
+  - Kide-Lee/dsh-locus-bridge
+  - LZM-P/dsh-plugin-rack
+  - PlutoCRown/dsh-plugins
+  - hh5631/dsh-plugin-updater
+  - nuskey8/lazydsh
+  - omagents/omagents
+  - oneclickvirt/ecs
+  - spheritier/dsh-plugin-bulk-update
+  - sunaono1/dsh-plugin-dual-brain
+  - wycocoyu/agy-context-dashboard
 
 - **Removed: 0**
