@@ -1,29 +1,29 @@
 {
- "total": 13170,
- "updated": "2026-11-16T10:34:10+00:00",
+ "total": 13190,
+ "updated": "2026-11-17T11:27:30+00:00",
  "by_category": {
-  "agents": 2856,
-  "ui": 3498,
-  "dev": 1301,
-  "eco": 243,
+  "agents": 2863,
+  "ui": 3499,
+  "dev": 1302,
+  "eco": 242,
   "web": 471,
-  "sessions": 896,
-  "other": 2562,
+  "sessions": 897,
+  "other": 2568,
   "knowledge": 265,
-  "media": 249,
+  "media": 251,
   "fun": 143,
-  "integrations": 235,
-  "util": 451
+  "integrations": 237,
+  "util": 452
  },
  "by_language": {
   "TypeScript": 3935,
-  "Go": 72,
-  "Python": 742,
-  "JavaScript": 7265,
+  "Go": 73,
+  "Python": 745,
+  "JavaScript": 7281,
   "Rust": 160,
   "HTML": 119,
   "None": 354,
-  "Shell": 87,
+  "Shell": 88,
   "Vue": 7,
   "C#": 87,
   "Kotlin": 34,
@@ -32,7 +32,7 @@
   "CSS": 23,
   "Swift": 52,
   "GDScript": 2,
-  "Java": 23,
+  "Java": 22,
   "Dockerfile": 1,
   "Roff": 1,
   "SCSS": 1,
@@ -58,5 +58,5 @@
   "Clojure": 1,
   "TeX": 1
  },
- "tag_only": 779
+ "tag_only": 782
 }

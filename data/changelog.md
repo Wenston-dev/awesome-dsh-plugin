@@ -1,21 +1,25 @@
-# Changelog — 2026-11-16
+# Changelog — 2026-11-17
 
-- **Added: 16**
-  - AI4XE/Parallax
-  - Bytedesk/bytedesk
-  - ChenJun25/dsh-console-hm
-  - Derek-Y-JQ/knowledge-galaxy
-  - JasperGuWP/dsh-plugin-whale-soulmate
-  - Jeck1204/dsh-plugin-sticky-wall-multipage
-  - Kide-Lee/dsh-locus-bridge
-  - LZM-P/dsh-plugin-rack
-  - PlutoCRown/dsh-plugins
-  - hh5631/dsh-plugin-updater
-  - nuskey8/lazydsh
-  - omagents/omagents
-  - oneclickvirt/ecs
-  - spheritier/dsh-plugin-bulk-update
-  - sunaono1/dsh-plugin-dual-brain
-  - wycocoyu/agy-context-dashboard
+- **Added: 20**
+  - 1Panel-dev/containers
+  - Domush/dsh-plugin-context-mode
+  - FTShare-Lab/dsh-plugin-fft-bundle
+  - FlameSky-S/dsh-plugin-porter
+  - Li-Evan/BloomTutor
+  - Merziller/dsh-video-workbench
+  - Ornn8/dsh-fishbowl-town
+  - SunVictor23/dsh-plugin-dbgpt
+  - Uruz123321/dsh-plugin-classes
+  - dennisyang1986/polymarket-proxy
+  - dexwebcode/dsh-plugin-telegram-bot
+  - lhy302/dsh-plugin-jevagent
+  - liangdabiao/dsh-amazon-image-studio
+  - nanxfu/dsh-our-imagen
+  - oneclickvirt/oneclickvirt
+  - sevenoffdays/dsh-plugin-admin
+  - shuxidemosheng/dsh-todolist
+  - tangliguang/dsh-plugin-hello
+  - xiaobaijiadepugongyingpai-coder/dsh-plugin-manager
+  - zmengle/dsh-plugin-artifacts
 
 - **Removed: 0**
