@@ -1,25 +1,25 @@
 {
- "total": 13243,
- "updated": "2026-11-20T10:52:38+00:00",
+ "total": 13265,
+ "updated": "2026-11-21T10:35:58+00:00",
  "by_category": {
-  "agents": 2876,
-  "ui": 3506,
-  "dev": 1311,
+  "agents": 2884,
+  "ui": 3511,
+  "dev": 1317,
   "eco": 243,
   "web": 470,
   "sessions": 903,
-  "other": 2584,
+  "other": 2586,
   "knowledge": 266,
   "media": 253,
   "fun": 143,
-  "integrations": 237,
+  "integrations": 238,
   "util": 451
  },
  "by_language": {
-  "TypeScript": 3934,
+  "TypeScript": 3938,
   "Go": 73,
-  "Python": 751,
-  "JavaScript": 7326,
+  "Python": 755,
+  "JavaScript": 7340,
   "Rust": 160,
   "HTML": 122,
   "None": 354,
@@ -58,5 +58,5 @@
   "Clojure": 1,
   "TeX": 1
  },
- "tag_only": 785
+ "tag_only": 786
 }
