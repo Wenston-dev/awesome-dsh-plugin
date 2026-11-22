@@ -1,27 +1,36 @@
-# Changelog — 2026-11-21
+# Changelog — 2026-11-22
 
-- **Added: 22**
-  - 1015677515/dsh-cyberegg
-  - AI4XE/ai4ai
-  - AIcivilization/dsh-model
-  - ChimeSky/dsh-a2ui
-  - LIUFelix2004/dsh-workbuddy
-  - PerryLink/dsh-plugin-devtools
-  - PerryLink/dsh-plugin-ready
-  - PerryLink/dsh-plugin-tools
-  - PerryLink/dsh-plugin-upgrade-015
-  - PerryLink/dsh-plugin-upgrade-016
-  - Pexol/dsh-plugin-termquery
-  - PhyAgentOS/PhyAgentOS-DSH-Plugin
-  - Theflowyears/dsh-arknights-theme
-  - adsorgcn/AdsPilot
-  - fengshiyangrouguan/dsh-closure-pet
-  - kairyou/agent-tools
-  - kingsznhone/dsh-plugin-orca-pod
-  - lihao178/dsh-plugin-steward
-  - makecindy/cindy-dsh-plugin
-  - mochi-fish/dsh-fish
-  - roost-qq/dsh-roost
-  - thePlannerIvan/planners-form
+- **Added: 738**
+  - 01NGVI-QINGYI/dsh-mistral-pro
+  - 05shizuku/shihai
+  - 121212165/dsh-plugin-market
+  - 123twtd/dsh-skin-manager
+  - 123twtd/dsh-vision-toggle
+  - 123wansui-989/dsh-flight-compare
+  - 13478790948abc/Claude-and-DeepSeek-Pet-LiKe
+  - 13520rygvv/dsh-bili-video
+  - 13520rygvv/dsh-hdd-splash
+  - 1924225725-collab/dsh-DKN-Workbench
+  - 1ceDrag0n/dsh-qq-bot
+  - 2074851180qw-code/dsh-fish-mood
+  - 2JumpSinA/dsh-context-guard
+  - 2huy4n/stop-wishing
+  - 3150481853/dsh-cookie-guard
+  - 387617119/mimo-voice-report
+  - 3likofj/dsh-custom-reasoning
+  - 49zr664rb8-hue/dsh-codex-effort
+  - 53721222-gif/mcpbpb
+  - 58fly/dsh-stack
+  - ADDD1118/dsh-update
+  - AI-Scarlett/DSH_CLIAPI
+  - AaronKal-ECU/offline-ai-agent
+  - Abeskandr/dsh-ue-db
+  - Adamaik/dsh-git-sidebar
+  - Aegink/dsh-channel-qq
+  - AgelessGlitch/feiyu
+  - AirPineApplea/feiyu-chat-companion
+  - AliceSaikawa/dsh-webui-m3e
+  - All3nCN/dsh-qa-suite-N23
+  - … and 708 more
 
 - **Removed: 0**
