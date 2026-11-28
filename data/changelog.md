@@ -1,17 +1,14 @@
-# Changelog — 2026-11-27
+# Changelog — 2026-11-28
 
-- **Added: 12**
-  - Railan1314/dsh-plugin-ai-hub
-  - Yuaneen/dsh-token-gateway
-  - dingchenhui0618-arch/dsh-plugin-daily
-  - duduk233/dsh-plugin-miliastra-toolbox
-  - duduk233/miliastra-beyond-simulator
-  - hanjiahe123/dsh-plugin-sticker
-  - liyupi/memecub
-  - liyupi/vibefather
-  - songni370/dsh-plugins-git-sync
-  - user-7392/dsh-plugins
-  - ynymhrb/long-horizon-runtime
-  - zman406986/Agent-Memory-CREMATOR
+- **Added: 9**
+  - ASER-ho/Loji-skill
+  - Alone-Ray/dsh-plugins
+  - LJL454/dsh-computer-use
+  - bruc3van/dsh-market-pro
+  - kurumi1ksllq/DSH-plugins
+  - linlannet/dsh-java
+  - meka-im/google-trends-for-agent
+  - rohitg00/agentmemory
+  - solgridai/dsh-plugin
 
 - **Removed: 0**
